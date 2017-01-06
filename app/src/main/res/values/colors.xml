@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dc462b</color>
+    <color name="colorPrimaryDark">#dc462b</color>
+    <color name="colorAccent">#dc462b</color>
+    <color name="statusBarColor">#dc462b</color>
+</resources>
